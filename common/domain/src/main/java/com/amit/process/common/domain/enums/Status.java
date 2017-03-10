@@ -5,6 +5,6 @@ package com.amit.process.common.domain.enums;
  */
 public enum Status {
 
-    RESERVED,WAITING,CANCELLED,ABANDONED,ORDER,
+    RESERVED,WAITING,CANCELLED,ABANDONED,ORDERED,BILLED,COMPLETE,REJECTED
 
 }

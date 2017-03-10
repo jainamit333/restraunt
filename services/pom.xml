@@ -12,15 +12,10 @@
     <artifactId>services</artifactId>
     <packaging>pom</packaging>
     <modules>
+        <module>resource</module>
         <module>reservation</module>
         <module>waiting</module>
-        <module>resource</module>
-        <module>notification</module>
-        <module>payment</module>
-        <module>billing</module>
-        <module>order</module>
-        <module>reporting</module>
-        <module>pipeline</module>
+        <module>queue-resource-test</module>
     </modules>
 
 
